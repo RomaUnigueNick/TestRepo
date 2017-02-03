@@ -1,0 +1,4 @@
+TestXamarinAndroid.MainActivity, TestXamarinAndroid;md577e23f683a576d5d4220b478b36f1f39.MainActivity
+TestXamarinAndroid.MainActivity, TestXamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577e23f683a576d5d4220b478b36f1f39.MainActivity
+TestXamarinAndroid.MainActivity;md577e23f683a576d5d4220b478b36f1f39.MainActivity
+testxamarinandroid.MainActivity;md577e23f683a576d5d4220b478b36f1f39.MainActivity
